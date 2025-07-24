@@ -1,0 +1,19 @@
+{
+    "id": "skin_6882301079dc2",
+    "skinName": "asdadasdas",
+    "authorName": "frewfsdfds",
+    "tags": [
+        ""
+    ],
+    "mainCategory": "Assault Rifle",
+    "subCategory": "AN-94",
+    "uploadTimestamp": 1753362448,
+    "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_6882301079dc2.png",
+    "files": [
+        {
+            "source": "mag.vtf",
+            "destination": "materials\/gmod4phun\/uecw\/weapons\/an94\/main.vtf"
+        }
+    ],
+    "baseFolder": "_files\/asdadasdas_skin_6882301079dc2"
+}
