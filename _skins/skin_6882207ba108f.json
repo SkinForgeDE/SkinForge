@@ -1,0 +1,16 @@
+{
+    "id": "skin_6882207ba108f",
+    "skinName": "TEST",
+    "authorName": "1",
+    "tags": [
+        ""
+    ],
+    "mainCategory": "Assault Rifle",
+    "subCategory": "AN-94",
+    "uploadTimestamp": 1753358459,
+    "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_6882207ba108f.jpg",
+    "files": [
+        "materials\/gmod4phun\/uecw\/weapons\/an94\/main.vtf"
+    ],
+    "downloadUrl": "https:\/\/download-directory.github.io\/?url=https:\/\/github.com\/SkinForgeDE\/SkinForge\/tree\/main\/_files%2FTEST_skin_6882207ba108f"
+}
