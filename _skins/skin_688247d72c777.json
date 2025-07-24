@@ -1,0 +1,19 @@
+{
+    "id": "skin_688247d72c777",
+    "skinName": "Pen is",
+    "authorName": "le0nator",
+    "tags": [
+        ""
+    ],
+    "mainCategory": "Assault Rifle",
+    "subCategory": "AN-94",
+    "uploadTimestamp": 1753368535,
+    "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_688247d72c777.JPEG",
+    "files": [
+        {
+            "source": "penis.vtf",
+            "destination": "materials\/gmod4phun\/uecw\/weapons\/an94\/main.vtf"
+        }
+    ],
+    "baseFolder": "_files\/Pen-is_skin_688247d72c777"
+}
