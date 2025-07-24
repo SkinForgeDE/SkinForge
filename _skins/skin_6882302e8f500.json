@@ -1,0 +1,19 @@
+{
+    "id": "skin_6882302e8f500",
+    "skinName": "penis",
+    "authorName": "aaaa",
+    "tags": [
+        ""
+    ],
+    "mainCategory": "Assault Rifle",
+    "subCategory": "AN-94",
+    "uploadTimestamp": 1753362478,
+    "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_6882302e8f500.jpg",
+    "files": [
+        {
+            "source": "penis.vtf",
+            "destination": "materials\/gmod4phun\/uecw\/weapons\/an94\/main.vtf"
+        }
+    ],
+    "baseFolder": "_files\/penis_skin_6882302e8f500"
+}
