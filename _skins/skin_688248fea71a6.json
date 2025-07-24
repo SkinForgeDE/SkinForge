@@ -1,0 +1,19 @@
+{
+    "id": "skin_688248fea71a6",
+    "skinName": "FIck dich",
+    "authorName": "Saya",
+    "tags": [
+        ""
+    ],
+    "mainCategory": "Nahkampfwaffen",
+    "subCategory": "Schlagring",
+    "uploadTimestamp": 1753368830,
+    "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_688248fea71a6.jpeg",
+    "files": [
+        {
+            "source": "extendedmag_base.vmt",
+            "destination": "materials\/models\/khrcw2\/doipack\/brassknuckles\/weapon_knuckles_dm.vmt"
+        }
+    ],
+    "baseFolder": "_files\/FIck-dich_skin_688248fea71a6"
+}
