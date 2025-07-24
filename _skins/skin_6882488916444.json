@@ -1,0 +1,19 @@
+{
+    "id": "skin_6882488916444",
+    "skinName": "sdvsdffgsdf",
+    "authorName": "le0nator",
+    "tags": [
+        ""
+    ],
+    "mainCategory": "Sub Machine Gun",
+    "subCategory": "MP5A5",
+    "uploadTimestamp": 1753368713,
+    "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_6882488916444.png",
+    "files": [
+        {
+            "source": "penis.vtf",
+            "destination": "materials\/models\/weapons\/v_models\/blops_mp5\/blops_mp5.vtf"
+        }
+    ],
+    "baseFolder": "_files\/sdvsdffgsdf_skin_6882488916444"
+}
