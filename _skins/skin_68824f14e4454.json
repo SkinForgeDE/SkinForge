@@ -1,0 +1,19 @@
+{
+    "id": "skin_68824f14e4454",
+    "skinName": "ASADSADSF",
+    "authorName": "le0nator",
+    "tags": [
+        ""
+    ],
+    "mainCategory": "Assault Rifle",
+    "subCategory": "AN-94",
+    "uploadTimestamp": 1753370388,
+    "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_68824f14e4454.png",
+    "files": [
+        {
+            "source": "penis.vtf",
+            "destination": "materials\/gmod4phun\/uecw\/weapons\/an94\/main.vtf"
+        }
+    ],
+    "baseFolder": "_files\/ASADSADSF_skin_68824f14e4454"
+}
