@@ -1,0 +1,20 @@
+{
+    "id": "skin_688251089d01e",
+    "skinName": "ppic",
+    "authorName": "le0nator",
+    "authorSteamId": "76561198885428569",
+    "tags": [
+        ""
+    ],
+    "mainCategory": "Assault Rifle",
+    "subCategory": "FN SCAR-H",
+    "uploadTimestamp": 1753370888,
+    "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_688251089d01e.gif",
+    "files": [
+        {
+            "source": "penis.vtf",
+            "destination": "materials\/models\/cw2\/rifles\/scarh\/bull\/tan\/mag_diff.vtf"
+        }
+    ],
+    "baseFolder": "_files\/ppic_skin_688251089d01e"
+}
