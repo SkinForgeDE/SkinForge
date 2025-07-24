@@ -1,0 +1,19 @@
+{
+    "id": "skin_688249fa3b511",
+    "skinName": "ich hasse leo",
+    "authorName": "Saya",
+    "tags": [
+        ""
+    ],
+    "mainCategory": "Assault Rifle",
+    "subCategory": "AN-94",
+    "uploadTimestamp": 1753369082,
+    "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_688249fa3b511.jpg",
+    "files": [
+        {
+            "source": "brickwall003d.vmt",
+            "destination": "materials\/gmod4phun\/uecw\/weapons\/an94\/main.vmt"
+        }
+    ],
+    "baseFolder": "_files\/ich-hasse-leo_skin_688249fa3b511"
+}
