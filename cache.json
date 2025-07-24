@@ -330,5 +330,25 @@
             }
         ],
         "baseFolder": "_files\/ASADSADSF_skin_68824f14e4454"
+    },
+    {
+        "id": "skin_68824f7d8c4c4",
+        "skinName": "hdah",
+        "authorName": "Saya",
+        "authorSteamId": "76561198200552159",
+        "tags": [
+            ""
+        ],
+        "mainCategory": "Machine Gun",
+        "subCategory": "MG42",
+        "uploadTimestamp": 1753370493,
+        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_68824f7d8c4c4.jpeg",
+        "files": [
+            {
+                "source": "brickwall003d.vmt",
+                "destination": "materials\/models\/weapons\/w_models\/mg42\/weapon_w_mg42_dm.vmt"
+            }
+        ],
+        "baseFolder": "_files\/hdah_skin_68824f7d8c4c4"
     }
 ]
