@@ -1,38 +1,296 @@
 [
     {
-        "id": "e27451bd3fc4fef3f13e295ab38e0863acfe6ca2",
-        "name": "Gadse",
-        "authorName": "Gadse",
-        "mainCategory": null,
-        "subCategory": null,
-        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/Gadse_1753252223\/preview.jpg",
-        "downloadUrl": "https:\/\/github.com\/SkinForgeDE\/SkinForge\/archive\/refs\/heads\/main.zip"
+        "id": "skin_6882207ba108f",
+        "skinName": "TEST",
+        "authorName": "1",
+        "tags": [
+            ""
+        ],
+        "mainCategory": "Assault Rifle",
+        "subCategory": "AN-94",
+        "uploadTimestamp": 1753358459,
+        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_6882207ba108f.jpg",
+        "files": [
+            "materials\/gmod4phun\/uecw\/weapons\/an94\/main.vtf"
+        ],
+        "downloadUrl": "https:\/\/download-directory.github.io\/?url=https:\/\/github.com\/SkinForgeDE\/SkinForge\/tree\/main\/_files%2FTEST_skin_6882207ba108f"
     },
     {
-        "id": "ce983ddef8068318023a6221228a4464f63c48ed",
-        "name": "Owl",
-        "authorName": "Owl",
-        "mainCategory": null,
-        "subCategory": null,
-        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/Owl_1753252041\/preview.jpeg",
-        "downloadUrl": "https:\/\/github.com\/SkinForgeDE\/SkinForge\/archive\/refs\/heads\/main.zip"
+        "id": "skin_688222f5994bd",
+        "skinName": "Test 2",
+        "authorName": "1",
+        "tags": [
+            ""
+        ],
+        "mainCategory": "Assault Rifle",
+        "subCategory": "AN-94",
+        "uploadTimestamp": 1753359093,
+        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_688222f5994bd.png",
+        "files": [
+            "materials\/gmod4phun\/uecw\/weapons\/an94\/main.vtf"
+        ]
     },
     {
-        "id": "79ee05d17bb26c4f4ac118d0851d24ec360f8369",
-        "name": "RRERAAHH",
-        "authorName": "RRFSDF",
-        "mainCategory": null,
-        "subCategory": null,
-        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/RRERAAHH_1753252549\/preview.gif",
-        "downloadUrl": "https:\/\/github.com\/SkinForgeDE\/SkinForge\/archive\/refs\/heads\/main.zip"
+        "id": "skin_68822477d23be",
+        "skinName": "test nummer 3",
+        "authorName": "test nummer 3",
+        "tags": [
+            ""
+        ],
+        "mainCategory": "Assault Rifle",
+        "subCategory": "AN-94",
+        "uploadTimestamp": 1753359479,
+        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_68822477d23be.png",
+        "files": [
+            "materials\/gmod4phun\/uecw\/weapons\/an94\/main.vtf"
+        ]
     },
     {
-        "id": "fe5bdfbc1fcc2855da00dd5961335571fdc52ce6",
-        "name": "Skebob",
-        "authorName": "BOb",
-        "mainCategory": null,
-        "subCategory": null,
-        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/Skebob_1753252306\/preview.gif",
-        "downloadUrl": "https:\/\/github.com\/SkinForgeDE\/SkinForge\/archive\/refs\/heads\/main.zip"
+        "id": "skin_6882251203414",
+        "skinName": "Test 4",
+        "authorName": "ttttt",
+        "tags": [
+            ""
+        ],
+        "mainCategory": "Assault Rifle",
+        "subCategory": "AN-94",
+        "uploadTimestamp": 1753359634,
+        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_6882251203414.jpg",
+        "files": [
+            "materials\/gmod4phun\/uecw\/weapons\/an94\/main.vtf"
+        ],
+        "downloadUrl": "_files\/Test-4_skin_6882251203414"
+    },
+    {
+        "id": "skin_688226e518d60",
+        "skinName": "NENEDKJFNSJKDNF",
+        "authorName": "AAAA",
+        "tags": [
+            ""
+        ],
+        "mainCategory": "Assault Rifle",
+        "subCategory": "AN-94",
+        "uploadTimestamp": 1753360101,
+        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_688226e518d60.jpg",
+        "files": [
+            "materials\/gmod4phun\/uecw\/weapons\/an94\/main.vtf"
+        ],
+        "downloadUrl": "_files\/NENEDKJFNSJKDNF_skin_688226e518d60"
+    },
+    {
+        "id": "skin_688228ee823db",
+        "skinName": "gfgfgdfgdgdfg",
+        "authorName": "dgdfff",
+        "tags": [
+            ""
+        ],
+        "mainCategory": "Assault Rifle",
+        "subCategory": "AN-94",
+        "uploadTimestamp": 1753360622,
+        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_688228ee823db.png",
+        "files": [
+            "materials\/gmod4phun\/uecw\/weapons\/an94\/main.vtf"
+        ],
+        "downloadUrl": "_files\/gfgfgdfgdgdfg_skin_688228ee823db"
+    },
+    {
+        "id": "skin_688229cdc9398",
+        "skinName": "RGSDFSGSDG",
+        "authorName": "GSDGSDGSD",
+        "tags": [
+            ""
+        ],
+        "mainCategory": "Assault Rifle",
+        "subCategory": "AN-94",
+        "uploadTimestamp": 1753360845,
+        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_688229cdc9398.jpg",
+        "files": [
+            "materials\/gmod4phun\/uecw\/weapons\/an94\/main.vtf"
+        ],
+        "downloadUrl": "_files\/RGSDFSGSDG_skin_688229cdc9398"
+    },
+    {
+        "id": "skin_68822c25b6237",
+        "skinName": "earhgrdfsfgdgfdfg",
+        "authorName": "fdgfgdfdgfgdfdg",
+        "tags": [
+            ""
+        ],
+        "mainCategory": "Assault Rifle",
+        "subCategory": "AN-94",
+        "uploadTimestamp": 1753361445,
+        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_68822c25b6237.png",
+        "files": [
+            "materials\/gmod4phun\/uecw\/weapons\/an94\/main.vtf"
+        ],
+        "downloadUrl": "_files\/earhgrdfsfgdgfdfg_skin_68822c25b6237"
+    },
+    {
+        "id": "skin_68822cebdd851",
+        "skinName": "AAAAAAA",
+        "authorName": "sdfsdfsdfsd",
+        "tags": [
+            ""
+        ],
+        "mainCategory": "Assault Rifle",
+        "subCategory": "AN-94",
+        "uploadTimestamp": 1753361643,
+        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_68822cebdd851.jpg",
+        "files": [
+            "materials\/gmod4phun\/uecw\/weapons\/an94\/main.vtf"
+        ],
+        "downloadUrl": "_files\/AAAAAAA_skin_68822cebdd851"
+    },
+    {
+        "id": "skin_6882301079dc2",
+        "skinName": "asdadasdas",
+        "authorName": "frewfsdfds",
+        "tags": [
+            ""
+        ],
+        "mainCategory": "Assault Rifle",
+        "subCategory": "AN-94",
+        "uploadTimestamp": 1753362448,
+        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_6882301079dc2.png",
+        "files": [
+            {
+                "source": "mag.vtf",
+                "destination": "materials\/gmod4phun\/uecw\/weapons\/an94\/main.vtf"
+            }
+        ],
+        "baseFolder": "_files\/asdadasdas_skin_6882301079dc2"
+    },
+    {
+        "id": "skin_6882302e8f500",
+        "skinName": "penis",
+        "authorName": "aaaa",
+        "tags": [
+            ""
+        ],
+        "mainCategory": "Assault Rifle",
+        "subCategory": "AN-94",
+        "uploadTimestamp": 1753362478,
+        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_6882302e8f500.jpg",
+        "files": [
+            {
+                "source": "penis.vtf",
+                "destination": "materials\/gmod4phun\/uecw\/weapons\/an94\/main.vtf"
+            }
+        ],
+        "baseFolder": "_files\/penis_skin_6882302e8f500"
+    },
+    {
+        "id": "skin_688247d72c777",
+        "skinName": "Pen is",
+        "authorName": "le0nator",
+        "tags": [
+            ""
+        ],
+        "mainCategory": "Assault Rifle",
+        "subCategory": "AN-94",
+        "uploadTimestamp": 1753368535,
+        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_688247d72c777.JPEG",
+        "files": [
+            {
+                "source": "penis.vtf",
+                "destination": "materials\/gmod4phun\/uecw\/weapons\/an94\/main.vtf"
+            }
+        ],
+        "baseFolder": "_files\/Pen-is_skin_688247d72c777"
+    },
+    {
+        "id": "skin_6882481783d58",
+        "skinName": "Nutte",
+        "authorName": "Saya",
+        "tags": [
+            ""
+        ],
+        "mainCategory": "Sniper",
+        "subCategory": "AWM",
+        "uploadTimestamp": 1753368599,
+        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_6882481783d58.png",
+        "files": [
+            {
+                "source": "extendedmag_base.vmt",
+                "destination": "materials\/gmod4phun\/uecw\/weapons\/m4t_awp\/shoulder.vmt"
+            }
+        ],
+        "baseFolder": "_files\/Nutte_skin_6882481783d58"
+    },
+    {
+        "id": "skin_6882488916444",
+        "skinName": "sdvsdffgsdf",
+        "authorName": "le0nator",
+        "tags": [
+            ""
+        ],
+        "mainCategory": "Sub Machine Gun",
+        "subCategory": "MP5A5",
+        "uploadTimestamp": 1753368713,
+        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_6882488916444.png",
+        "files": [
+            {
+                "source": "penis.vtf",
+                "destination": "materials\/models\/weapons\/v_models\/blops_mp5\/blops_mp5.vtf"
+            }
+        ],
+        "baseFolder": "_files\/sdvsdffgsdf_skin_6882488916444"
+    },
+    {
+        "id": "skin_688248fea71a6",
+        "skinName": "FIck dich",
+        "authorName": "Saya",
+        "tags": [
+            ""
+        ],
+        "mainCategory": "Nahkampfwaffen",
+        "subCategory": "Schlagring",
+        "uploadTimestamp": 1753368830,
+        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_688248fea71a6.jpeg",
+        "files": [
+            {
+                "source": "extendedmag_base.vmt",
+                "destination": "materials\/models\/khrcw2\/doipack\/brassknuckles\/weapon_knuckles_dm.vmt"
+            }
+        ],
+        "baseFolder": "_files\/FIck-dich_skin_688248fea71a6"
+    },
+    {
+        "id": "skin_68824955de530",
+        "skinName": "kacke",
+        "authorName": "Saya",
+        "tags": [
+            ""
+        ],
+        "mainCategory": "Sub Machine Gun",
+        "subCategory": "MPX",
+        "uploadTimestamp": 1753368917,
+        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_68824955de530.png",
+        "files": [
+            {
+                "source": "fishhead.vmt",
+                "destination": "materials\/cw2\/models\/weapons\/v_models\/arccw_dmi\/sig_sauer_mpx\/mpx_9mm.vmt"
+            }
+        ],
+        "baseFolder": "_files\/kacke_skin_68824955de530"
+    },
+    {
+        "id": "skin_688249fa3b511",
+        "skinName": "ich hasse leo",
+        "authorName": "Saya",
+        "tags": [
+            ""
+        ],
+        "mainCategory": "Assault Rifle",
+        "subCategory": "AN-94",
+        "uploadTimestamp": 1753369082,
+        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_688249fa3b511.jpg",
+        "files": [
+            {
+                "source": "brickwall003d.vmt",
+                "destination": "materials\/gmod4phun\/uecw\/weapons\/an94\/main.vmt"
+            }
+        ],
+        "baseFolder": "_files\/ich-hasse-leo_skin_688249fa3b511"
     }
 ]
