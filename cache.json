@@ -46,25 +46,5 @@
             }
         ],
         "baseFolder": "_files\/Paid_BW-M32-MGL_skin_6883359a76b65"
-    },
-    {
-        "id": "skin_68833aa743eff",
-        "skinName": "RRRRAAAAAAHHHH",
-        "authorName": "le0nator",
-        "authorSteamId": "76561198885428569",
-        "tags": [
-            ""
-        ],
-        "mainCategory": "Assault Rifle",
-        "subCategory": "AN-94",
-        "uploadTimestamp": 1753430695,
-        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_68833aa743eff.png",
-        "files": [
-            {
-                "source": "materials_gmod4phun_uecw_weapons_an94_main_vtf_0.vtf",
-                "destination": "materials\/gmod4phun\/uecw\/weapons\/an94\/main.vtf"
-            }
-        ],
-        "baseFolder": "_files\/le0nator_RRRRAAAAAAHHHH_skin_68833aa743eff"
     }
 ]
