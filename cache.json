@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "id": "skin_6882e3f8b2f8b",
+        "skinName": "wrfgsdffg",
+        "authorName": "le0nator",
+        "authorSteamId": "76561198885428569",
+        "tags": [
+            ""
+        ],
+        "mainCategory": "Assault Rifle",
+        "subCategory": "M16A2",
+        "uploadTimestamp": 1753408504,
+        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_6882e3f8b2f8b.jpg",
+        "files": [
+            {
+                "source": "fore.vtf",
+                "destination": "materials\/gmod4phun\/uecw\/weapons\/twinke.stoke.m16\/fore.vtf"
+            },
+            {
+                "source": "fore.vtf",
+                "destination": "materials\/gmod4phun\/uecw\/weapons\/twinke.stoke.m16\/fore.vtf"
+            }
+        ],
+        "baseFolder": "_files\/wrfgsdffg_skin_6882e3f8b2f8b"
+    }
+]
