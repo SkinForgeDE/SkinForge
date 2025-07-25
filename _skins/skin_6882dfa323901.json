@@ -1,0 +1,20 @@
+{
+    "id": "skin_6882dfa323901",
+    "skinName": "ffdfdfsdfs",
+    "authorName": "le0nator",
+    "authorSteamId": "76561198885428569",
+    "tags": [
+        ""
+    ],
+    "mainCategory": "Assault Rifle",
+    "subCategory": "FN FAL",
+    "uploadTimestamp": 1753407395,
+    "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_6882dfa323901.jpg",
+    "files": [
+        {
+            "source": "penis.vtf",
+            "destination": "materials\/gmod4phun\/uecw\/weapons\/fal\/stock-xseries.vtf"
+        }
+    ],
+    "baseFolder": "_files\/ffdfdfsdfs_skin_6882dfa323901"
+}
