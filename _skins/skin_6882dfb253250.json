@@ -1,0 +1,20 @@
+{
+    "id": "skin_6882dfb253250",
+    "skinName": "dfsfddff",
+    "authorName": "le0nator",
+    "authorSteamId": "76561198885428569",
+    "tags": [
+        ""
+    ],
+    "mainCategory": "Assault Rifle",
+    "subCategory": "AN-94",
+    "uploadTimestamp": 1753407410,
+    "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_6882dfb253250.png",
+    "files": [
+        {
+            "source": "penis.vtf",
+            "destination": "materials\/gmod4phun\/uecw\/weapons\/an94\/main.vtf"
+        }
+    ],
+    "baseFolder": "_files\/dfsfddff_skin_6882dfb253250"
+}
