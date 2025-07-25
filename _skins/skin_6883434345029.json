@@ -1,0 +1,20 @@
+{
+    "id": "skin_6883434345029",
+    "skinName": "dagag",
+    "authorName": "Saya",
+    "authorSteamId": "76561198200552159",
+    "tags": [
+        ""
+    ],
+    "mainCategory": "Sub Machine Gun",
+    "subCategory": "MPX",
+    "uploadTimestamp": 1753432899,
+    "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_6883434345029.png",
+    "files": [
+        {
+            "source": "materials_cw2_models_weapons_v_models_arccw_dmi_sig_sauer_mpx_mpx_9mm_vmt_0.vmt",
+            "destination": "materials\/cw2\/models\/weapons\/v_models\/arccw_dmi\/sig_sauer_mpx\/mpx_9mm.vmt"
+        }
+    ],
+    "baseFolder": "_files\/Saya_dagag_skin_6883434345029"
+}
