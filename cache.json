@@ -28,26 +28,6 @@
         "baseFolder": "_files\/Paid_BW-Ak-101_skin_6883328435ca5"
     },
     {
-        "id": "skin_6883359a76b65",
-        "skinName": "BW M32 MGL",
-        "authorName": "Paid",
-        "authorSteamId": "76561198819152014",
-        "tags": [
-            "Black & White"
-        ],
-        "mainCategory": "Granatwerfer",
-        "subCategory": "M32 MGL",
-        "uploadTimestamp": 1753429402,
-        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_6883359a76b65.png",
-        "files": [
-            {
-                "source": "materials_models_weapons_v_models_mac_bo2_emblem_vtf_0.vtf",
-                "destination": "materials\/models\/weapons\/v_models\/mac_bo2\/emblem.vtf"
-            }
-        ],
-        "baseFolder": "_files\/Paid_BW-M32-MGL_skin_6883359a76b65"
-    },
-    {
         "id": "skin_68836f3423800",
         "skinName": "BW M32 MGL",
         "authorName": "Paid",
