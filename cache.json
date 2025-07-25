@@ -46,5 +46,25 @@
             }
         ],
         "baseFolder": "_files\/Paid_BW-M32-MGL_skin_6883359a76b65"
+    },
+    {
+        "id": "skin_688343d939417",
+        "skinName": "rthtr",
+        "authorName": "Saya",
+        "authorSteamId": "76561198200552159",
+        "tags": [
+            ""
+        ],
+        "mainCategory": "Sub Machine Gun",
+        "subCategory": "MPX",
+        "uploadTimestamp": 1753433049,
+        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_688343d939417.png",
+        "files": [
+            {
+                "source": "materials_cw2_models_weapons_v_models_arccw_dmi_sig_sauer_mpx_mpx_9mm_vmt_0.vmt",
+                "destination": "materials\/cw2\/models\/weapons\/v_models\/arccw_dmi\/sig_sauer_mpx\/mpx_9mm.vmt"
+            }
+        ],
+        "baseFolder": "_files\/Saya_rthtr_skin_688343d939417"
     }
 ]
