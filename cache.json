@@ -46,5 +46,25 @@
             }
         ],
         "baseFolder": "_files\/Paid_BW-M32-MGL_skin_6883359a76b65"
+    },
+    {
+        "id": "skin_688342422da04",
+        "skinName": "Fortnite",
+        "authorName": "Paid",
+        "authorSteamId": "76561198819152014",
+        "tags": [
+            "Hallo"
+        ],
+        "mainCategory": "Assault Rifle",
+        "subCategory": "FN FAL",
+        "uploadTimestamp": 1753432642,
+        "previewUrl": "https:\/\/raw.githubusercontent.com\/SkinForgeDE\/SkinForge\/main\/_previews\/skin_688342422da04.jpg",
+        "files": [
+            {
+                "source": "materials_gmod4phun_uecw_weapons_fal_stock_xseries_vtf_0.vtf",
+                "destination": "materials\/gmod4phun\/uecw\/weapons\/fal\/stock-xseries.vtf"
+            }
+        ],
+        "baseFolder": "_files\/Paid_Fortnite_skin_688342422da04"
     }
 ]
