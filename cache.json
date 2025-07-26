@@ -56,11 +56,13 @@
         ],
         "baseFolder": "_files\/Paid_BW-M32-MGL_skin_68836f3423800",
         "totalRating": 3,
-        "ratingCount": 0,
-        "averageRating": 0,
+        "ratingCount": 1,
+        "averageRating": 1,
         "raters": [
             "76561198885428569"
         ],
-        "ratings": []
+        "ratings": {
+            "76561198200552159": 1
+        }
     }
 ]
