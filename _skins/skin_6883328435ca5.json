@@ -24,5 +24,11 @@
             "destination": "materials\/models\/weapons\/ak_101\/body_ak74m.vtf"
         }
     ],
-    "baseFolder": "_files\/Paid_BW-Ak-101_skin_6883328435ca5"
+    "baseFolder": "_files\/Paid_BW-Ak-101_skin_6883328435ca5",
+    "totalRating": 4,
+    "ratingCount": 1,
+    "averageRating": 4,
+    "raters": [
+        "76561198885428569"
+    ]
 }
