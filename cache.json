@@ -37,7 +37,11 @@
             "76561198819152014": 5
         },
         "likers": [],
-        "likeCount": 0
+        "likeCount": 0,
+        "favoriters": [
+            "76561198885428569"
+        ],
+        "favoriteCount": 1
     },
     {
         "id": "skin_68836f3423800",
