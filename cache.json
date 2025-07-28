@@ -116,8 +116,10 @@
         "uploadTimestamp": 1753675195,
         "likeCount": 0,
         "likers": [],
-        "favoriteCount": 0,
-        "favoriters": [],
+        "favoriteCount": 1,
+        "favoriters": [
+            "76561198885428569"
+        ],
         "downloadCount": 1,
         "previewUrl": "https:\/\/skinforge.clan.rip\/github-proxy.php?action=get_preview&id=skin_6886f5bb20797&ext=jpg",
         "files": [
