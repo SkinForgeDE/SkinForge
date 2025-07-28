@@ -80,30 +80,5 @@
         ],
         "likeCount": 1,
         "downloadCount": 1
-    },
-    {
-        "id": "skin_6886ee788c3ec",
-        "skinName": "Test 64",
-        "authorName": "le0nator",
-        "authorSteamId": "76561198885428569",
-        "tags": [
-            ""
-        ],
-        "mainCategory": "Sub Machine Gun",
-        "subCategory": "MP5A5",
-        "uploadTimestamp": 1753673336,
-        "likeCount": 0,
-        "likers": [],
-        "favoriteCount": 0,
-        "favoriters": [],
-        "downloadCount": 0,
-        "previewUrl": "https:\/\/skinforge.clan.rip\/github-proxy.php?action=get_preview&id=skin_6886ee788c3ec&ext=jpg",
-        "files": [
-            {
-                "source": "materials_models_weapons_v_models_blops_mp5_blops_mp5_vtf_0.vtf",
-                "destination": "materials\/models\/weapons\/v_models\/blops_mp5\/blops_mp5.vtf"
-            }
-        ],
-        "baseFolder": "_files\/le0nator_Test-64_skin_6886ee788c3ec"
     }
 ]
