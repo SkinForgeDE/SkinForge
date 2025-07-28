@@ -1,0 +1,26 @@
+{
+    "id": "skin_6886e24c0214c",
+    "skinName": "Neon moolar",
+    "authorName": "le0nator",
+    "authorSteamId": "76561198885428569",
+    "authorAvatar": "https:\/\/avatars.steamstatic.com\/ae8c984551bb314dfa32071f81813bf9f6be91df.jpg",
+    "tags": [
+        ""
+    ],
+    "mainCategory": "Assault Rifle",
+    "subCategory": "M16A2",
+    "uploadTimestamp": 1753670220,
+    "likeCount": 0,
+    "likers": [],
+    "favoriteCount": 0,
+    "favoriters": [],
+    "downloadCount": 0,
+    "previewUrl": "skin_6886e24c0214c.jpg",
+    "files": [
+        {
+            "source": "materials_gmod4phun_uecw_weapons_twinke_stoke_m16_fore_vtf_0.vtf",
+            "destination": "materials\/gmod4phun\/uecw\/weapons\/twinke.stoke.m16\/fore.vtf"
+        }
+    ],
+    "baseFolder": "_files\/le0nator_Neon-moolar_skin_6886e24c0214c"
+}
