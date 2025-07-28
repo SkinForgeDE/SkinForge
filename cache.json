@@ -101,5 +101,31 @@
         "previewUrl": "https:\/\/skinforge.clan.rip\/github-proxy.php?action=get_preview&id=skin_6886f09d9c4e4&ext=png",
         "files": [],
         "baseFolder": "_files\/le0nator_Test-idk_skin_6886f09d9c4e4"
+    },
+    {
+        "id": "skin_6886f5bb20797",
+        "skinName": "Encryption Test 1",
+        "authorName": "le0nator",
+        "authorAvatar": "https:\/\/avatars.steamstatic.com\/ae8c984551bb314dfa32071f81813bf9f6be91df_full.jpg",
+        "authorSteamId": "76561198885428569",
+        "tags": [
+            ""
+        ],
+        "mainCategory": "Machine Gun",
+        "subCategory": "RPD",
+        "uploadTimestamp": 1753675195,
+        "likeCount": 0,
+        "likers": [],
+        "favoriteCount": 0,
+        "favoriters": [],
+        "downloadCount": 0,
+        "previewUrl": "https:\/\/skinforge.clan.rip\/github-proxy.php?action=get_preview&id=skin_6886f5bb20797&ext=jpg",
+        "files": [
+            {
+                "source": "materials_models_weapons_v_models_mw2_rpd_mw2_rpd_vtf_0.vtf",
+                "destination": "materials\/models\/weapons\/v_models\/mw2_rpd\/mw2_rpd.vtf"
+            }
+        ],
+        "baseFolder": "_files\/le0nator_Encryption-Test-1_skin_6886f5bb20797"
     }
 ]
