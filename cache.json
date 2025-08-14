@@ -24,5 +24,31 @@
             }
         ],
         "baseFolder": "_files\/le0nator_Penis_skin_689e00c8d7f33"
+    },
+    {
+        "id": "skin_689e03f708a98",
+        "skinName": "Penis 2",
+        "authorName": "le0nator",
+        "authorAvatar": "https:\/\/avatars.steamstatic.com\/2d0c11fd75c8b18c66f768ab9950af69454961e6_full.jpg",
+        "authorSteamId": "76561198885428569",
+        "tags": [
+            ""
+        ],
+        "mainCategory": "Shotgun",
+        "subCategory": "Saiga-12K",
+        "uploadTimestamp": 1755186167,
+        "likeCount": 0,
+        "likers": [],
+        "favoriteCount": 0,
+        "favoriters": [],
+        "downloadCount": 0,
+        "previewUrl": "https:\/\/skinforge.clan.rip\/github-proxy.php?action=get_preview&id=skin_689e03f708a98&ext=jpg",
+        "files": [
+            {
+                "source": "materials_models_weapons_v_models_saiga12k_grip_vtf_0.vtf",
+                "destination": "materials\/models\/weapons\/v_models\/saiga12k\/grip.vtf"
+            }
+        ],
+        "baseFolder": "_files\/le0nator_Penis-2_skin_689e03f708a98"
     }
 ]
