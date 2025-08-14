@@ -53,5 +53,34 @@
             }
         ],
         "baseFolder": "_files\/le0nator_RRRRAAAHHH_skin_689e3f6455479"
+    },
+    {
+        "id": "skin_689e459496658",
+        "skinName": "RRRAFADSFASD",
+        "authorName": "le0nator",
+        "authorAvatar": "https:\/\/avatars.steamstatic.com\/2d0c11fd75c8b18c66f768ab9950af69454961e6_full.jpg",
+        "authorSteamId": "76561198885428569",
+        "tags": [
+            ""
+        ],
+        "mainCategory": "Machine Gun",
+        "subCategory": "MG42",
+        "uploadTimestamp": 1755202964,
+        "likeCount": 0,
+        "likers": [],
+        "favoriteCount": 0,
+        "favoriters": [],
+        "downloadCount": 0,
+        "previewUrls": [
+            "https:\/\/skinforge.clan.rip\/github-proxy.php?action=get_preview&id=skin_689e459496658_0&ext=jpg",
+            "https:\/\/skinforge.clan.rip\/github-proxy.php?action=get_preview&id=skin_689e459496658_1&ext=gif"
+        ],
+        "files": [
+            {
+                "source": "materials_models_weapons_w_models_mg42_weapon_w_mg42_dm_vtf_0.vtf",
+                "destination": "materials\/models\/weapons\/w_models\/mg42\/weapon_w_mg42_dm.vtf"
+            }
+        ],
+        "baseFolder": "_files\/le0nator_RRRAFADSFASD_skin_689e459496658"
     }
 ]
