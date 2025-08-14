@@ -10,8 +10,10 @@
     "mainCategory": "Machine Gun",
     "subCategory": "MG42",
     "uploadTimestamp": 1755202964,
-    "likeCount": 0,
-    "likers": [],
+    "likeCount": 1,
+    "likers": [
+        "76561198885428569"
+    ],
     "favoriteCount": 1,
     "favoriters": [
         "76561198885428569"
