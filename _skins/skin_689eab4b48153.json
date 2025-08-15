@@ -1,0 +1,29 @@
+{
+    "id": "skin_689eab4b48153",
+    "skinName": "AAAAAAAAHHHHHH",
+    "authorName": "le0nator",
+    "authorAvatar": "https:\/\/avatars.steamstatic.com\/2d0c11fd75c8b18c66f768ab9950af69454961e6_full.jpg",
+    "authorSteamId": "76561198885428569",
+    "tags": [
+        "penis",
+        "leck ei"
+    ],
+    "mainCategory": "Granatwerfer",
+    "subCategory": "RGL-80",
+    "uploadTimestamp": 1755229003,
+    "likeCount": 0,
+    "likers": [],
+    "favoriteCount": 0,
+    "favoriters": [],
+    "downloadCount": 0,
+    "previewUrls": [
+        "https:\/\/skinforge.clan.rip\/github-proxy.php?action=get_preview&id=skin_689eab4b48153_0&ext=png"
+    ],
+    "files": [
+        {
+            "source": "materials_zeron_weapons_mgl_foregrip_d_rgb_vtf_0.vtf",
+            "destination": "materials\/zeron\/weapons\/mgl\/foregrip_d_rgb.vtf"
+        }
+    ],
+    "baseFolder": "_files\/le0nator_AAAAAAAAHHHHHH_skin_689eab4b48153"
+}
