@@ -1,0 +1,17 @@
+{
+    "ticket_id": "tkt_68a07914a28ea",
+    "user_id": "76561198885428569",
+    "category": "Technische Hilfe",
+    "subject": "aaaa",
+    "timestamp": 1755347220,
+    "last_reply_timestamp": 1755347220,
+    "status": "open",
+    "messages": [
+        {
+            "sender_id": "76561198885428569",
+            "message": "aaaaaaaaas",
+            "timestamp": 1755347220,
+            "image_path": "_tickets\/images\/tkt_68a07914a28ea_0.png"
+        }
+    ]
+}
