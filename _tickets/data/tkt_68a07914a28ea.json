@@ -4,14 +4,19 @@
     "category": "Technische Hilfe",
     "subject": "aaaa",
     "timestamp": 1755347220,
-    "last_reply_timestamp": 1755347220,
-    "status": "open",
+    "last_reply_timestamp": 1755376530,
+    "status": "awaiting_reply",
     "messages": [
         {
             "sender_id": "76561198885428569",
             "message": "aaaaaaaaas",
             "timestamp": 1755347220,
             "image_path": "_tickets\/images\/tkt_68a07914a28ea_0.png"
+        },
+        {
+            "sender_id": "76561198885428569",
+            "message": "RRRRRAAAAHHH\r\n",
+            "timestamp": 1755376530
         }
     ]
 }
